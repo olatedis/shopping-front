@@ -1,2 +1,0 @@
-This is function used in branch A
-Branch B does not know this file.
